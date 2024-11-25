@@ -61,17 +61,6 @@ Contributions to the project are welcome. You can contribute by:
 - Suggesting enhancements
 - Submitting pull requests with improvements
 
-## Media
 
-### Images
-
-![AES-128-Qt Encrypt Tab](![image](https://github.com/user-attachments/assets/c506ca78-de15-498e-88c0-b71f42fdf389))  <!-- Change `url_to_image_here` to the direct image URL -->
-
-![AES-128-Qt Decrypt Tab](![image](https://github.com/user-attachments/assets/73d17921-785c-47aa-bd4f-009d5d102204)) 
-
-
-### Video 
-For a full tutorial on how to use the AES-128-Qt application, watch [this video]([video_url_here](https://github.com/user-attachments/assets/b6cf6859-83f4-41c0-a40f-4aec0b1d22f5)).  <!-- Change `video_url_here` to the video URL -->
-
-
+![image](https://github.com/user-attachments/assets/467a1e65-9c1f-49c8-afc5-69245dc59e45)
 
